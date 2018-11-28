@@ -1,5 +1,8 @@
 ## EasyLink
+
 >个人觉得比较好的资源、工具收集，方便以后使用。
+
+![](./logo.png)
 
 ## 计划
 - [todo任务](https://github.com/Zenquan/learningLink/issues/15)
