@@ -1,8 +1,8 @@
 ## EasyLink
 
->个人觉得比较好的资源、工具收集，方便以后使用。
-
 ![](./logo.png)
+
+<div style="text-align: center">个人觉得比较好的资源、工具收集，方便以后使用。</div>
 
 ## 计划
 - [todo任务](https://github.com/Zenquan/learningLink/issues/15)
@@ -11,7 +11,7 @@
 ## 轮子相关
 - [值得学习的技术团队](https://github.com/Zenquan/learningLink/issues/20)
 - [框架底层原理](https://github.com/Zenquan/learningLink/issues/18)
-- [值得学习的轮子](https://github.com/Zenquan/learningLink/issues/16)
+- [关注的轮子](https://github.com/Zenquan/learningLink/issues/16)
 - [CSS代码段、值得借鉴的UI库](https://github.com/Zenquan/learningLink/issues/5)
 - [js代码段、值得借鉴的轮子](https://github.com/Zenquan/learningLink/issues/4)
 
