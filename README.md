@@ -5,7 +5,6 @@
 <div style="text-align: center">个人觉得比较好的资源、工具收集，方便以后使用。</div>
 
 ## 计划
-- [todo任务](https://github.com/Zenquan/learningLink/issues/15)
 - [学好英语，尝试翻译](https://github.com/Zenquan/learningLink/issues/12)
 
 ## 轮子相关
@@ -31,6 +30,7 @@
 - [移动端开发经验文章](https://github.com/Zenquan/learningLink/issues/6)
 - [一些前端团队的博客](https://github.com/Zenquan/learningLink/issues/2)
 - [常访问的大神级别的博客](https://github.com/Zenquan/learningLink/issues/1)
+- [综合能力培养](https://github.com/Zenquan/EasyLink/issues/22)
 
 ## 工具、附加技能
 - [前端工具集合](https://github.com/Zenquan/learningLink/issues/10)
