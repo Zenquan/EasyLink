@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+<head>
+<title>RSS</title>
+</head>
+<body>
+<outline text="前端" title="前端">
+<outline type="rss" text="JavaScript Weekly" htmlUrl="https://javascriptweekly.com/" title="JavaScript Weekly" xmlUrl="https://javascriptweekly.com/rss/" />
+<outline type="rss" title="CSS Weekly" text="CSS Weekly" htmlUrl="https://css-weekly.com" xmlUrl="https://feeds.feedburner.com/CSS-Weekly" />
+<outline title="CSS-Tricks" text="CSS-Tricks" xmlUrl="https://css-tricks.com/feed/" type="rss" htmlUrl="https://css-tricks.com" />
+<outline text="百度 FEX 团队" htmlUrl="http://fex.baidu.com" type="rss" title="百度 FEX 团队" xmlUrl="http://fex.baidu.com/feed.xml" />
+<outline type="rss" htmlUrl="https://mobiledevweekly.com/" title="Mobile Dev Weekly" xmlUrl="https://mobiledevweekly.com/rss/" text="Mobile Dev Weekly" />
+<outline text="Node Weekly" htmlUrl="https://nodeweekly.com/" xmlUrl="https://nodeweekly.com/rss/" type="rss" title="Node Weekly" />
+<outline text="Frontend Focus" type="rss" htmlUrl="https://frontendfoc.us/" xmlUrl="https://frontendfoc.us/rss/" title="Frontend Focus" />
+<outline htmlUrl="https://75team.com/weekly/" xmlUrl="https://weekly.75team.com/rss.php" type="rss" title="奇舞周刊" text="奇舞周刊" />
+</outline>
+</body>
+</opml>

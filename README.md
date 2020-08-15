@@ -2,9 +2,18 @@
 
 ![](./logo.png)
 
-<div style="text-align: center">个人觉得比较好的资源、工具收集，方便以后使用。</div>
+<div style="text-align: center">个人觉得比较好的资源、工具收集、技术rss订阅，方便以后使用。</div>
+
+## 技术周刊rss订阅
+
+![image-20200815171520222](https://i.loli.net/2020/08/15/ESzv6V7a9lGjNJ2.png)
+
+![image-20200815171656834](https://i.loli.net/2020/08/15/rbHGPBXax9OK2Ue.png)
+
+- [rss订阅](./RSS.opml)
 
 ## 计划
+
 - [学好英语，尝试翻译](https://github.com/Zenquan/learningLink/issues/12)
 
 ## 轮子相关
